@@ -14,4 +14,3 @@ Esse projeto faz parte da disciplina TCC em Sistema de informação.
 
 ### Imagens do Sistema:
 
-![](C:\Users\Faculdade\Desktop\aaaaa.png)
