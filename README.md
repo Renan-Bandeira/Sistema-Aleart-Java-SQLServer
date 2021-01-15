@@ -11,7 +11,3 @@ Esse projeto faz parte da disciplina TCC em Sistema de informação.
 * IDE Netbens 8.2
 * Java SE
 * Microsoft SQL Server
-
-### Imagens do Sistema:
-
-![](C:\Users\Faculdade\Desktop\aaaaa.png)
